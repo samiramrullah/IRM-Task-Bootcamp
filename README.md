@@ -93,11 +93,16 @@ maximum tolerable downtime)
      
 * Implement firewalls and antivirus software <br>
    These technological defenses offer an additional barrier to computer network. Firewalls act as a buffer between the outside world and internal network, which gives the organization greater control over incoming and outgoing traffic. Similarly, antivirus software searches network device to identify any potentially malicious threats. <br>
-* Create a patch management schedule
-* Continuously monitor network traffic
-* Build an incident response plan
-* Examine the physical security of your business
-* Minimize the attack surface  
+* Create a patch management schedule <br>
+  Organizations should be aware of the typical patch release schedule among their service or software providers to create an effective patch management schedule that can help the organization’s IT security team stay ahead of attackers. <br>
+* Continuously monitor network traffic <br>
+  Continuous monitoring allows your IT security team to actively identify new threats and determine the optimal path to remediate them. <br>
+* Build an incident response plan <br>
+  An incident response plan is a set of instructions to help IT staff detect, respond to, and recover from network security incidents. These types of plans address issues like cybercrime, data loss, and service outages that threaten daily work. <br>
+* Examine the physical security of your business <br>
+  Physical security risks are at the base level of any security concern. Risks can exist without a threat but not vice versa. Physical security risk is a circumstance of exposure to danger. For example minimum control of entry and exit activity, having computers or laptops left unattended on desks or lack of appropriate security training for staff. <br>
+* Minimize the attack surface  <br>
+  Attack surface refers to the areas of vulnerabilities or entry points that cybercriminals can use to access sensitive information and data. This can be anything from web applications and software to employees. 
 <br>
 
 # SWOT Analysis
