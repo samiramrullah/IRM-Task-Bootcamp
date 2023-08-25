@@ -1,4 +1,4 @@
-# Information Risk Management- Mini Project
+# Information Risk Management - Mini Project
   Sonali Shanbhag, Samir Alam, Piyush Bawa <br>
   **Security and Compliance**
   <br>
