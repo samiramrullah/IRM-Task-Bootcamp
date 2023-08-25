@@ -77,6 +77,10 @@ maximum tolerable downtime)
 
 # Risk Avoidance Strategy
 * Conduct a cybersecurity risk assessment
+   * A risk assessment can help uncover potential gaps in your organization’s security controls and offer insight into the assets that need to be protected 
+   * The security controls currently in place. Conducting a cybersecurity risk assessment can also help your organization’s IT security team identify areas of 
+     vulnerability that could be potentially exploited and prioritize which vulnerabilities should be remediated first. 
+   * Security ratings are a great way to gain a real-time look at cybersecurity posture of the organization and third-party vendors as well.
 * Establish network access controls
 * Implement firewalls and antivirus software
 * Create a patch management schedule
