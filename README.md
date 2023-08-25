@@ -81,7 +81,10 @@ maximum tolerable downtime)
    * The security controls currently in place. Conducting a cybersecurity risk assessment can also help your organization’s IT security team identify areas of 
      vulnerability that could be potentially exploited and prioritize which vulnerabilities should be remediated first. 
    * Security ratings are a great way to gain a real-time look at cybersecurity posture of the organization and third-party vendors as well.
-* Establish network access controls
+* Establish network access controls'
+  The components are <br>
+   * Restricted Access
+   * Network Boundary Protection (Firewall)
 * Implement firewalls and antivirus software
 * Create a patch management schedule
 * Continuously monitor network traffic
