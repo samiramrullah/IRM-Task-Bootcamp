@@ -81,10 +81,16 @@ maximum tolerable downtime)
    * The security controls currently in place. Conducting a cybersecurity risk assessment can also help your organization’s IT security team identify areas of 
      vulnerability that could be potentially exploited and prioritize which vulnerabilities should be remediated first. 
    * Security ratings are a great way to gain a real-time look at cybersecurity posture of the organization and third-party vendors as well.
-* Establish network access controls'
+* Establish network access controls <br>
+  **Access Requestor(AR):** Determined from the name that any entity, such as a device, person, or process is attempting to gain access by requesting it. <br>
+  **Policy Server :** The policy server analyzes what access should be provided to AR based on the AR’s identity, permission level, attempted request, and an 
+   organization’s established access policy. <br>
+  **Network Access Server(NAS) :** Users connecting to an organization’s internal network from distant locations utilize the NAS as an access control point. These
+  often serve as VPNs and give users access to the company’s internal network. <br> <br>
   The components are <br>
    * Restricted Access
-   * Network Boundary Protection (Firewall)
+   * Network Boundary Protection (Firewall) 
+   * 
 * Implement firewalls and antivirus software
 * Create a patch management schedule
 * Continuously monitor network traffic
