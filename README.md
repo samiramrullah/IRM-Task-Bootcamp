@@ -1,5 +1,7 @@
-# IRM
-
+# Information Risk Management- Mini Project
+  Sonali Shanbhag, Samir Alam, Piyush Bawa <br>
+  **Security and Compliance**
+  <br>
 # Organisational Infrastructure Risk for Small-scale IT Services & Consulting Company
 **Organisational Infrastructure Risk Checklist** <br>
 
