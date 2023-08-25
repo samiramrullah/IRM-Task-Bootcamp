@@ -143,3 +143,9 @@ criticality of cybersecurity improvement
 remote administration) increase cybersecurity risks
 * Supply chain partners may bring additional security 
 risks to be considered and managed
+
+
+<br> <br>
+
+![MicrosoftTeams-image](https://github.com/samiramrullah/IRM-Task-Bootcamp/assets/74055996/e89c62be-8cb8-44ac-a842-3290b16a9c54)
+
