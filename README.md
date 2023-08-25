@@ -91,7 +91,8 @@ maximum tolerable downtime)
    * Restricted Access
    * Network Boundary Protection (Firewall)
      
-* Implement firewalls and antivirus software
+* Implement firewalls and antivirus software <br>
+   These technological defenses offer an additional barrier to computer network. Firewalls act as a buffer between the outside world and internal network, which gives the organization greater control over incoming and outgoing traffic. Similarly, antivirus software searches network device to identify any potentially malicious threats. <br>
 * Create a patch management schedule
 * Continuously monitor network traffic
 * Build an incident response plan
