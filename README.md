@@ -89,8 +89,8 @@ maximum tolerable downtime)
   often serve as VPNs and give users access to the company’s internal network. <br> <br>
   The components are <br>
    * Restricted Access
-   * Network Boundary Protection (Firewall) 
-   * 
+   * Network Boundary Protection (Firewall)
+     
 * Implement firewalls and antivirus software
 * Create a patch management schedule
 * Continuously monitor network traffic
